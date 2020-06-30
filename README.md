@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with npx and [Demo is here](https://checkcovid19.surge.sh/).
 
 ## Available Scripts
 
